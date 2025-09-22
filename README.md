@@ -85,7 +85,7 @@ open http://localhost:3000 to see app in action.
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204159" src="https://github.com/user-attachments/assets/1534509f-5d93-4c7d-8d76-10bee7fff817" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204255" src="https://github.com/user-attachments/assets/a252df24-6cf3-461c-9b06-88fd21e7ae25" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204317" src="https://github.com/user-attachments/assets/7cd84cad-e873-4f6b-853b-7aa713af66fb" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-21 204354" src="https://github.com/user-attachments/assets/2aa062f6-e020-4756-8806-83d1a368ebcb" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 204658" src="https://github.com/user-attachments/assets/69ee6369-da48-4b37-863e-11eaae42c331" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204658" src="https://github.com/user-attachments/assets/69ee6369-da48-4b37-863e-11eaae42c331" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204354" src="https://github.com/user-attachments/assets/2aa062f6-e020-4756-8806-83d1a368ebcb" />
 
