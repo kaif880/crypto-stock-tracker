@@ -82,8 +82,8 @@ cd frontend
 npm run dev
 open http://localhost:3000 to see app in action.
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204133" src="https://github.com/user-attachments/assets/e4bbb2c2-a416-403c-ba6c-c6d1bf646751" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-21 204637" src="https://github.com/user-attachments/assets/b4c6e368-f576-4056-8b33-d098c57bf1a8" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-21 204416" src="https://github.com/user-attachments/assets/a4914d90-3ebf-48c4-b390-f25b97180817" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 204159" src="https://github.com/user-attachments/assets/1534509f-5d93-4c7d-8d76-10bee7fff817" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 204255" src="https://github.com/user-attachments/assets/a252df24-6cf3-461c-9b06-88fd21e7ae25" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204354" src="https://github.com/user-attachments/assets/0aecfb03-3b1b-4348-9e70-d73e96fd5dd6" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204317" src="https://github.com/user-attachments/assets/7cd84cad-e873-4f6b-853b-7aa713af66fb" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-21 204255" src="https://github.com/user-attachments/assets/a252df24-6cf3-461c-9b06-88fd21e7ae25" />
